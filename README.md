@@ -1,5 +1,5 @@
  # Javz Data Science
-This data science repository is for training only
+This data science repository is for training only!
 
 
 Analytic Approach Based on the Question Type
